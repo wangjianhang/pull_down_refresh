@@ -1,0 +1,1 @@
+<import src="/colorui/components/cu-custom.vue.wxml" /><template name="21941cde"><view class="_view 21941cde"><template bgColor="bg-gradual-blue" data="{{...$root['0'], ...$root[$kk+'21941cde-0'],$root, $slotdefault:'21941cde-default-21941cde-0',$slotbackText:'21941cde-backText-21941cde-0',$slotcontent:'21941cde-content-21941cde-0'}}" is="297b0f12"></template></view></template>

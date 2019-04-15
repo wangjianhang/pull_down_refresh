@@ -1,0 +1,16 @@
+<import src="/colorui/components/cu-custom.vue.wxml" />
+
+<template name="220a2223-default-220a2223-0"></template>
+
+<template name="220a2223-backText-220a2223-0">返回</template>
+
+<template name="220a2223-content-220a2223-0">主页</template>
+
+<template name="220a2223-right-220a2223-0"><view bindtap="handleProxy" class="_view 220a2223 action" data-eventid="{{'220a2223-0'}}" data-comkey="{{$k}}">筛选</view></template>
+
+<template name="21941cde-default-21941cde-0"></template>
+
+<template name="21941cde-backText-21941cde-0">返回</template>
+
+<template name="21941cde-content-21941cde-0">按钮</template>
+
